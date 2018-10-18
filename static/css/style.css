@@ -3435,6 +3435,10 @@ table {
     position: relative
 }
 
+ul.summary li.chapter {
+    padding-left:20px;
+}
+
 .book-summary ul.summary li a:hover {
     text-decoration: underline
 }
