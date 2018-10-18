@@ -3041,7 +3041,7 @@ table {
     width: 50%;
     float: left;
     padding: 10px 5px;
-    font-size: 16px
+    /*font-size: 16px*/
 }
 
 @media (max-width:600px) {
@@ -3057,7 +3057,7 @@ table {
     height: 50px;
     padding: 0 8px;
     z-index: 2;
-    font-size: .85em;
+    /*font-size: .85em;*/
     color: #7e888b;
     background: 0 0
 }
@@ -3073,7 +3073,7 @@ table {
     -webkit-box-shadow: none !important;
     box-shadow: none !important;
     position: relative;
-    font-size: 14px
+    /*font-size: 14px*/
 }
 
 .book-header .btn:hover {
@@ -3089,7 +3089,7 @@ table {
 
 .book-header h1 {
     margin: 0;
-    font-size: 20px;
+   /* font-size: 20px;*/
     font-weight: 200;
     text-align: center;
     line-height: 50px;
@@ -3151,7 +3151,7 @@ table {
     padding: 0;
     margin: 2px 0 0;
     list-style: none;
-    font-size: 14px;
+   /* font-size: 14px;*/
     background-color: #fafafa;
     border: 1px solid rgba(0, 0, 0, .07);
     border-radius: 1px;
@@ -3304,7 +3304,7 @@ table {
     position: absolute;
     right: 9px;
     top: 16px;
-    font-size: 9px;
+ /*   font-size: 9px;*/
     color: #3c3
 }
 
@@ -4144,14 +4144,14 @@ body, html {
 }
 
 html {
-    font-size: 62.5%
+/*    font-size: 62.5%*/
 }
 
 body {
     text-rendering: optimizeLegibility;
     font-smoothing: antialiased;
    /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-    font-size: 14px;
+   /* font-size: 14px;*/
     letter-spacing: .2px;
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
