@@ -27,3 +27,94 @@
 html {
 	font-family: "adobe-caslon-pro", serif;
 }
+
+
+h1,span,b,i{
+margin: 0;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+word-break: keep-all;
+line-height: 50%;
+
+
+}
+
+
+
+
+/*  1em = 12pt = 16px = 100% */
+
+
+h1,
+h2,
+h3,
+h4 {
+text-align: center;
+line-height: 1;
+word-break: break-word;
+overflow-wrap: break-word;
+}
+
+h1 {
+text-transform: uppercase;
+font-weight: 500;
+color: #4EB7D9;
+font-size: 9.5em;
+}
+
+
+
+h2 {
+font-size: 2.2em;
+line-height:120%;
+font-weight: 100;
+color: #494949;
+margin-left:16%;
+margin-right:16%;
+margin-top:1.5em;
+}
+
+
+h3 {
+text-transform: uppercase;
+font-weight: 300;
+font-size: 4em;
+color: #4EB7D9;
+
+}
+
+
+h4 {
+color: #494949;
+font-size: 1.5em;
+line-height:120%;
+letter-spacing:1px;
+font-weight:100;
+}
+
+
+
+h6 {
+	
+color: #494949;
+font-size: 1.5em;
+line-height:120%;
+letter-spacing:1px;
+}
+
+
+
+h5 {
+	
+color: #494949;
+font-size: 1.8em;
+font-weight:bold;
+text-align: justify;
+margin: 0;
+letter-spacing:1px;
+line-height:110%;
+padding-bottom: 5px;
+
+}
