@@ -147,7 +147,6 @@ a:active, a:hover {
 }
 
 h1 {
-    font-size: 2em;
     margin: .67em 0
 }
 
@@ -176,7 +175,7 @@ mark {
 
 code, kbd, pre, samp {
     font-family: monospace, serif;
-    font-size: 1em
+    font-size: 1em !important;
 }
 
 pre {
