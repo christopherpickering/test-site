@@ -26,6 +26,10 @@
 
 html {
 	font-family: "adobe-caslon-pro", serif;
+	font-size: 1.3em;
+	line-height: 135px;
+	color:#494949;
+	text-align: justify;
 }
 
 
