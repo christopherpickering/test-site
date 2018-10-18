@@ -3513,7 +3513,7 @@ padding: 10px 45px;
     position: absolute;
     top: 0;
     right: 0;
-    left: 0;
+    left: 300px;
     bottom: 0;
     overflow-y: auto;
     color: #000;
