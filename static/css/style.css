@@ -4150,7 +4150,7 @@ html {
 body {
     text-rendering: optimizeLegibility;
     font-smoothing: antialiased;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
     font-size: 14px;
     letter-spacing: .2px;
     text-size-adjust: 100%;
