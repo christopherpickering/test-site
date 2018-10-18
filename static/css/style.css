@@ -24,6 +24,10 @@
     padding: 10px 45px;
 }
 
+body, html {
+    height: 100%
+}
+
 html {
     font-family: "adobe-caslon-pro", serif;
     font-size: 1.3em ;
@@ -31,6 +35,13 @@ html {
     text-align: justify;
 }
 
+body {
+    text-rendering: optimizeLegibility;
+    font-smoothing: antialiased;
+    text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
 
 h1,span,b,i{
     margin: 0;
@@ -4251,25 +4262,6 @@ body.with-search .navigation {
 
 a {
     text-decoration: none
-}
-
-body, html {
-    height: 100%
-}
-
-html {
-/*    font-size: 62.5%*/
-}
-
-body {
-    text-rendering: optimizeLegibility;
-    font-smoothing: antialiased;
-   /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-   /* font-size: 14px;*/
-    letter-spacing: .2px;
-    text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%
 }
 
 
