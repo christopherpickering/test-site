@@ -18,8 +18,6 @@ audio:not([controls]) {
 }
 
 html {
-    font-family: "adobe-caslon-pro" serif; 
-
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
