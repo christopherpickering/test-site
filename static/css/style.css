@@ -4249,7 +4249,7 @@ body.with-search .navigation {
     display: none
 }
 
-* {
+/** {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -4259,7 +4259,7 @@ body.with-search .navigation {
     -webkit-touch-callout: none;
     -webkit-font-smoothing: antialiased
 }
-
+*/
 a {
     text-decoration: none
 }
