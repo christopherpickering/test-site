@@ -175,7 +175,7 @@ mark {
 
 code, kbd, pre, samp {
     font-family: monospace, serif;
-    font-size: 1em !important;
+    font-size: 1em ;
 }
 
 pre {
@@ -3764,7 +3764,7 @@ table {
 .markdown-section code {
     padding: .2em;
     margin: 0;
-    font-size: .85em;
+    font-size: .85em !important;
     background-color: #f7f7f7
 }
 
