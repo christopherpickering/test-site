@@ -67,13 +67,16 @@ font-size: 4em !important;
 
 
 h2 {
-font-size: 2.2em !important;
-line-height:120% !important;
-font-weight: 100 !important;
+
+
 color: #494949 !important;
-/*margin-left:16%;
-margin-right:16%;*/
-margin-top:1.5em !important;
+font-size: 1.8em !important;
+font-weight:bold !important;
+text-align: justify !important;
+margin: 0 !important;
+letter-spacing:1px !important;
+line-height:110% !important;
+padding-bottom: 5px !important;
 }
 
 
@@ -107,15 +110,13 @@ letter-spacing:1px !important;
 
 
 h5 {
-	
+	font-size: 2.2em !important;
+line-height:120% !important;
+font-weight: 100 !important;
 color: #494949 !important;
-font-size: 1.8em !important;
-font-weight:bold !important;
-text-align: justify !important;
-margin: 0 !important;
-letter-spacing:1px !important;
-line-height:110% !important;
-padding-bottom: 5px !important;
+/*margin-left:16%;
+margin-right:16%;*/
+margin-top:1.5em !important;
 
 }
 
