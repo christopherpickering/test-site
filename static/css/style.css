@@ -58,7 +58,7 @@ h1 {
     text-transform: uppercase !important;
     font-weight: 400 !important;
     color: #4EB7D9 !important;
-    font-size: 4em !important;
+    font-size: 3.5em !important;
 }
 
 h2 {
@@ -71,7 +71,6 @@ h2 {
     line-height:110% !important;
     padding-bottom: 5px !important;
 }
-
 
 h3 {
     text-transform: uppercase !important;
@@ -3365,7 +3364,7 @@ table {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     position: absolute;
     top: 0;
-    left: -300px;
+    /*left: -300px;*/
     bottom: 0;
     z-index: 1;
     overflow-y: auto;
